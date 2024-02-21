@@ -1,0 +1,4 @@
+boto3
+py_cui >= 0.1.0
+pyperclip
+tabulate

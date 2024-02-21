@@ -1,0 +1,4 @@
+build
+npdoc2md
+pytest
+twine
