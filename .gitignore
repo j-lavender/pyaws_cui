@@ -1,0 +1,23 @@
+#Custom additions
+test-account/
+
+# Standard Python ignore
+venv/
+.virtualenv
+.vscode/
+.idea/
+__pycache__/
+*~
+~*
+test.py
+demo/
+.vscode/
+*egg*
+build/*
+dist/*
+
+# Standard ignore
+.envrc
+# scripts/
+logs/
+*.pem
